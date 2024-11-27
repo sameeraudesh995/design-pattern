@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/singleton/Interface-segregation/Interface-segregation.iml" filepath="$PROJECT_DIR$/singleton/Interface-segregation/Interface-segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/liskov/liskov.iml" filepath="$PROJECT_DIR$/singleton/liskov/liskov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/open-close/open-close.iml" filepath="$PROJECT_DIR$/singleton/open-close/open-close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/single-responsibility/single-responsibility.iml" filepath="$PROJECT_DIR$/singleton/single-responsibility/single-responsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
